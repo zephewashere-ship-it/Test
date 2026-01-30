@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260129-202744-o0th",
+    "title": "Gecrge",
+    "commanders": [
+      "Gecrge"
+    ],
+    "dateStart": "2026-01-30T01:27:44.000Z",
+    "dateEnd": "2026-01-30T03:33:59.000Z",
+    "dateLabel": "1/29/2026, 8:27:44 PM - 1/29/2026, 10:33:59 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260129-202744-o0th",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 16,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 15,
+          "color": "#10b981"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 7,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 9,
+      "avgEnemySize": 35
+    }
+  },
+  {
     "id": "20260128-203816-8hvy",
     "title": "Gecrge, Tilted Illusion",
     "commanders": [
