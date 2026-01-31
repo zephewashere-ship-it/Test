@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260130-202154-g2de",
+    "title": "Gecrge",
+    "commanders": [
+      "Gecrge"
+    ],
+    "dateStart": "2026-01-31T01:21:54.000Z",
+    "dateEnd": "2026-01-31T01:59:22.000Z",
+    "dateLabel": "1/30/2026, 8:21:54 PM - 1/30/2026, 8:59:22 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260130-202154-g2de",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 12,
+          "color": "#a855f7"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 7
+    }
+  },
+  {
     "id": "20260130-221615-qryw",
     "title": "Dragonhunter",
     "commanders": [
