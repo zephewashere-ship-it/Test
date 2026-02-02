@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260201-204624-liae",
+    "title": "Gecrge",
+    "commanders": [
+      "Gecrge"
+    ],
+    "dateStart": "2026-02-02T01:46:24.000Z",
+    "dateEnd": "2026-02-02T03:31:17.000Z",
+    "dateLabel": "2/1/2026, 8:46:24 PM - 2/1/2026, 10:31:17 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260201-204624-liae",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 14,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#10b981"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 9,
+      "avgEnemySize": 33
+    }
+  },
+  {
     "id": "20260131-195846-j0mv",
     "title": "Dub Grumble, Guardian Cleming",
     "commanders": [
