@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260203-201741-8jg7",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-02-04T01:17:41.000Z",
+    "dateEnd": "2026-02-04T02:35:44.000Z",
+    "dateLabel": "2/3/2026, 8:17:41 PM - 2/3/2026, 9:35:44 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260203-201741-8jg7",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Alpine Borderlands",
+          "value": 15,
+          "color": "#22c55e"
+        },
+        {
+          "name": "World vs World - Green Alpine Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 45,
+      "avgEnemySize": 28
+    }
+  },
+  {
     "id": "20260201-204624-liae",
     "title": "Gecrge",
     "commanders": [
