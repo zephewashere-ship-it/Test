@@ -1,6 +1,6 @@
 {
-  "id": "Shadow",
-  "label": "Shadow",
+  "id": "Dark Pearl",
+  "label": "Dark Pearl",
   "rgb": "148, 163, 184",
-  "pattern": "radial-gradient(at 0% 0%, hsla(220, 20%, 10%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(0, 0%, 15%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(240, 10%, 20%, 1) 0, transparent 70%)"
+  "pattern": "radial-gradient(at 0% 0%, hsla(220, 30%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(240, 40%, 20%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(200, 30%, 25%, 1) 0, transparent 70%)"
 }
