@@ -1,6 +1,6 @@
 {
-  "id": "Arcane",
-  "label": "Arcane",
-  "rgb": "136, 116, 255",
-  "pattern": "radial-gradient(at 0% 0%, hsla(250, 70%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(220, 80%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(270, 65%, 20%, 1) 0, transparent 70%)"
+  "id": "Deep Space",
+  "label": "Deep Space",
+  "rgb": "99, 102, 241",
+  "pattern": "radial-gradient(at 0% 0%, hsla(245, 75%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(180, 80%, 20%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(300, 70%, 18%, 1) 0, transparent 70%)"
 }
