@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260204-204958-f8xm",
+    "title": "Gecrge",
+    "commanders": [
+      "Gecrge"
+    ],
+    "dateStart": "2026-02-05T01:49:58.000Z",
+    "dateEnd": "2026-02-05T03:48:39.000Z",
+    "dateLabel": "2/4/2026, 8:49:58 PM - 2/4/2026, 10:48:39 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260204-204958-f8xm",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 20,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 28
+    }
+  },
+  {
     "id": "20260203-201741-8jg7",
     "title": "Lightspeed Jack",
     "commanders": [
