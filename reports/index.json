@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260205-211832-erbo",
+    "title": "Gèorge",
+    "commanders": [
+      "Gèorge"
+    ],
+    "dateStart": "2026-02-06T02:18:32.000Z",
+    "dateEnd": "2026-02-06T04:38:06.000Z",
+    "dateLabel": "2/5/2026, 9:18:32 PM - 2/5/2026, 11:38:06 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260205-211832-erbo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 23,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 9,
+      "avgEnemySize": 19
+    }
+  },
+  {
     "id": "20260204-204958-f8xm",
     "title": "Gecrge",
     "commanders": [
