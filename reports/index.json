@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260209-151719-pvcd",
+    "title": "Copybara Cat",
+    "commanders": [
+      "Copybara Cat"
+    ],
+    "dateStart": "2026-02-09T20:17:19.000Z",
+    "dateEnd": "2026-02-09T21:06:32.000Z",
+    "dateLabel": "2/9/2026, 3:17:19 PM - 2/9/2026, 4:06:32 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260209-151719-pvcd",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 12,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 24
+    }
+  },
+  {
     "id": "20260208-210311-2wxd",
     "title": "Georqe",
     "commanders": [
