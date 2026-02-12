@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260211-203740-gw6p",
+    "title": "Georqe",
+    "commanders": [
+      "Georqe"
+    ],
+    "dateStart": "2026-02-12T01:37:40.000Z",
+    "dateEnd": "2026-02-12T04:34:56.000Z",
+    "dateLabel": "2/11/2026, 8:37:40 PM - 2/11/2026, 11:34:56 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260211-203740-gw6p",
+    "summary": {
+      "borderlandsPct": 0.9714285714285714,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 22,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 23
+    }
+  },
+  {
     "id": "20260209-151719-pvcd",
     "title": "Copybara Cat",
     "commanders": [
