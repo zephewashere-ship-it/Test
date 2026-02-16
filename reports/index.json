@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260216-144404-8udl",
+    "title": "Aerith Savante",
+    "commanders": [
+      "Aerith Savante"
+    ],
+    "dateStart": "2026-02-16T19:44:04.000Z",
+    "dateEnd": "2026-02-16T21:00:02.000Z",
+    "dateLabel": "2/16/2026, 2:44:04 PM - 2/16/2026, 4:00:02 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260216-144404-8udl",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Obsidian Sanctum",
+          "value": 21,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 45
+    }
+  },
+  {
     "id": "20260215-162201-b97w",
     "title": "Georqe",
     "commanders": [
