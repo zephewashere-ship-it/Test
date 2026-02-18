@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260217-222133-isdy",
+    "title": "Undie Vided",
+    "commanders": [
+      "Undie Vided"
+    ],
+    "dateStart": "2026-02-18T03:21:33.000Z",
+    "dateEnd": "2026-02-18T03:57:08.000Z",
+    "dateLabel": "2/17/2026, 10:21:33 PM - 2/17/2026, 10:57:08 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260217-222133-isdy",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 11,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 12
+    }
+  },
+  {
     "id": "20260217-215432-pdm5",
     "title": "Nim Ísnt, Undie Vided",
     "commanders": [
