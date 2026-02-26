@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260225-210251-iipm",
+    "title": "Georqe",
+    "commanders": [
+      "Georqe"
+    ],
+    "dateStart": "2026-02-26T02:02:51.000Z",
+    "dateEnd": "2026-02-26T04:02:33.000Z",
+    "dateLabel": "2/25/2026, 9:02:51 PM - 2/25/2026, 11:02:33 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260225-210251-iipm",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 19,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 22
+    }
+  },
+  {
     "id": "20260222-205943-xtfh",
     "title": "Georqe, Lightspeed Jack",
     "commanders": [
