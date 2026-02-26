@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260224-210417-6xfd",
+    "title": "Georqe",
+    "commanders": [
+      "Georqe"
+    ],
+    "dateStart": "2026-02-25T02:04:17.000Z",
+    "dateEnd": "2026-02-25T02:29:52.000Z",
+    "dateLabel": "2/24/2026, 9:04:17 PM - 2/24/2026, 9:29:52 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260224-210417-6xfd",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 9,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 11,
+      "avgEnemySize": 13
+    }
+  },
+  {
     "id": "20260224-212959-i6t0",
     "title": "Gecrge, Georqe, Geùrge",
     "commanders": [
