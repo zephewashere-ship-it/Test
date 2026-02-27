@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260226-210059-132m",
+    "title": "Georqe",
+    "commanders": [
+      "Georqe"
+    ],
+    "dateStart": "2026-02-27T02:00:59.000Z",
+    "dateEnd": "2026-02-27T03:58:20.000Z",
+    "dateLabel": "2/26/2026, 9:00:59 PM - 2/26/2026, 10:58:20 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260226-210059-132m",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 20,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 18
+    }
+  },
+  {
     "id": "20260224-210417-62x4",
     "title": "Georqe",
     "commanders": [
