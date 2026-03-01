@@ -1,5 +1,39 @@
 [
   {
+    "id": "20260228-180313-r4mj",
+    "title": "Dub Grumble, Radiant Harasho",
+    "commanders": [
+      "Dub Grumble",
+      "Radiant Harasho"
+    ],
+    "dateStart": "2026-02-28T23:03:13.000Z",
+    "dateEnd": "2026-03-01T03:57:13.000Z",
+    "dateLabel": "2/28/2026, 6:03:13 PM - 2/28/2026, 10:57:13 PM",
+    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260228-180313-r4mj",
+    "summary": {
+      "borderlandsPct": 0.6818181818181818,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 7,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 34
+    }
+  },
+  {
     "id": "20260226-210059-132m",
     "title": "Georqe",
     "commanders": [
