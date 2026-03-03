@@ -1,858 +1,899 @@
-[
-  {
-    "id": "20260301-205956-sujq",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-03-02T01:59:56.000Z",
-    "dateEnd": "2026-03-02T03:58:17.000Z",
-    "dateLabel": "3/1/2026, 8:59:56 PM - 3/1/2026, 10:58:17 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260301-205956-sujq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 16,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 4,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
-      ],
-      "avgSquadSize": 7,
-      "avgEnemySize": 32
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260228-180313-r4mj",
-    "title": "Dub Grumble, Radiant Harasho",
-    "commanders": [
-      "Dub Grumble",
-      "Radiant Harasho"
-    ],
-    "dateStart": "2026-02-28T23:03:13.000Z",
-    "dateEnd": "2026-03-01T03:57:13.000Z",
-    "dateLabel": "2/28/2026, 6:03:13 PM - 2/28/2026, 10:57:13 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260228-180313-r4mj",
-    "summary": {
-      "borderlandsPct": 0.6818181818181818,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 8,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 7,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 7,
-          "color": "#ffffff"
-        }
+  "entries": [
+    {
+      "id": "20260302-210642-jpmq",
+      "title": "Gèorge, Georqe",
+      "commanders": [
+        "Gèorge",
+        "Georqe"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 34
-    }
-  },
-  {
-    "id": "20260226-210059-132m",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-27T02:00:59.000Z",
-    "dateEnd": "2026-02-27T03:58:20.000Z",
-    "dateLabel": "2/26/2026, 9:00:59 PM - 2/26/2026, 10:58:20 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260226-210059-132m",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 20,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 9,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-03T02:06:42.000Z",
+      "dateEnd": "2026-03-03T04:02:41.000Z",
+      "dateLabel": "3/2/2026, 9:06:42 PM - 3/2/2026, 11:02:41 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260302-210642-jpmq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260301-205956-sujq",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 8,
-      "avgEnemySize": 18
-    }
-  },
-  {
-    "id": "20260224-210417-62x4",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-25T02:04:17.000Z",
-    "dateEnd": "2026-02-25T02:29:52.000Z",
-    "dateLabel": "2/24/2026, 9:04:17 PM - 2/24/2026, 9:29:52 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260224-210417-62x4",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 9,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-03-02T01:59:56.000Z",
+      "dateEnd": "2026-03-02T03:58:17.000Z",
+      "dateLabel": "3/1/2026, 8:59:56 PM - 3/1/2026, 10:58:17 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260301-205956-sujq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260228-180313-r4mj",
+      "title": "Dub Grumble, Radiant Harasho",
+      "commanders": [
+        "Dub Grumble",
+        "Radiant Harasho"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 13
-    }
-  },
-  {
-    "id": "20260224-210417-6xfd",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-25T02:04:17.000Z",
-    "dateEnd": "2026-02-25T02:29:52.000Z",
-    "dateLabel": "2/24/2026, 9:04:17 PM - 2/24/2026, 9:29:52 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260224-210417-6xfd",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 9,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-28T23:03:13.000Z",
+      "dateEnd": "2026-03-01T03:57:13.000Z",
+      "dateLabel": "2/28/2026, 6:03:13 PM - 2/28/2026, 10:57:13 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260228-180313-r4mj",
+      "summary": {
+        "borderlandsPct": 0.6818181818181818,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 34
+      }
+    },
+    {
+      "id": "20260226-210059-132m",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 13
-    }
-  },
-  {
-    "id": "20260224-212959-i6t0",
-    "title": "Gecrge, Georqe, Geùrge",
-    "commanders": [
-      "Gecrge",
-      "Georqe",
-      "Geùrge"
-    ],
-    "dateStart": "2026-02-25T02:29:59.000Z",
-    "dateEnd": "2026-02-25T03:01:16.000Z",
-    "dateLabel": "2/24/2026, 9:29:59 PM - 2/24/2026, 10:01:16 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260224-212959-i6t0",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 8,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-27T02:00:59.000Z",
+      "dateEnd": "2026-02-27T03:58:20.000Z",
+      "dateLabel": "2/26/2026, 9:00:59 PM - 2/26/2026, 10:58:20 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260226-210059-132m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 18
+      }
+    },
+    {
+      "id": "20260224-210417-62x4",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 14
-    }
-  },
-  {
-    "id": "20260225-210251-iipm",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-26T02:02:51.000Z",
-    "dateEnd": "2026-02-26T04:02:33.000Z",
-    "dateLabel": "2/25/2026, 9:02:51 PM - 2/25/2026, 11:02:33 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260225-210251-iipm",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 4,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-25T02:04:17.000Z",
+      "dateEnd": "2026-02-25T02:29:52.000Z",
+      "dateLabel": "2/24/2026, 9:04:17 PM - 2/24/2026, 9:29:52 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260224-210417-62x4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 13
+      }
+    },
+    {
+      "id": "20260224-210417-6xfd",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 7,
-      "avgEnemySize": 22
-    }
-  },
-  {
-    "id": "20260222-205943-xtfh",
-    "title": "Georqe, Lightspeed Jack",
-    "commanders": [
-      "Georqe",
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-23T01:59:43.000Z",
-    "dateEnd": "2026-02-23T04:05:30.000Z",
-    "dateLabel": "2/22/2026, 8:59:43 PM - 2/22/2026, 11:05:30 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260222-205943-xtfh",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 10,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-25T02:04:17.000Z",
+      "dateEnd": "2026-02-25T02:29:52.000Z",
+      "dateLabel": "2/24/2026, 9:04:17 PM - 2/24/2026, 9:29:52 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260224-210417-6xfd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 13
+      }
+    },
+    {
+      "id": "20260224-212959-i6t0",
+      "title": "Gecrge, Georqe, Geùrge",
+      "commanders": [
+        "Gecrge",
+        "Georqe",
+        "Geùrge"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260222-230736-096y",
-    "title": "Unknown Commander",
-    "commanders": [],
-    "dateStart": "2026-02-23T04:07:36.649Z",
-    "dateEnd": "2026-02-23T04:07:36.649Z",
-    "dateLabel": "2/22/2026, 11:07:36 PM - 2/22/2026, 11:07:36 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260222-230736-096y",
-    "summary": {
-      "borderlandsPct": null,
-      "mapSlices": [],
-      "avgSquadSize": 0,
-      "avgEnemySize": 0
-    }
-  },
-  {
-    "id": "20260219-211759-ulz6",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-20T02:17:59.000Z",
-    "dateEnd": "2026-02-20T03:26:56.000Z",
-    "dateLabel": "2/19/2026, 9:17:59 PM - 2/19/2026, 10:26:56 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260219-211759-ulz6",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-25T02:29:59.000Z",
+      "dateEnd": "2026-02-25T03:01:16.000Z",
+      "dateLabel": "2/24/2026, 9:29:59 PM - 2/24/2026, 10:01:16 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260224-212959-i6t0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 14
+      }
+    },
+    {
+      "id": "20260225-210251-iipm",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260218-204519-f4bk",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-19T01:45:19.000Z",
-    "dateEnd": "2026-02-19T03:37:18.000Z",
-    "dateLabel": "2/18/2026, 8:45:19 PM - 2/18/2026, 10:37:18 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260218-204519-f4bk",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 14,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 2,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-26T02:02:51.000Z",
+      "dateEnd": "2026-02-26T04:02:33.000Z",
+      "dateLabel": "2/25/2026, 9:02:51 PM - 2/25/2026, 11:02:33 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260225-210251-iipm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 22
+      }
+    },
+    {
+      "id": "20260222-205943-xtfh",
+      "title": "Georqe, Lightspeed Jack",
+      "commanders": [
+        "Georqe",
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 5,
-      "avgEnemySize": 24
-    }
-  },
-  {
-    "id": "20260217-222133-isdy",
-    "title": "Undie Vided",
-    "commanders": [
-      "Undie Vided"
-    ],
-    "dateStart": "2026-02-18T03:21:33.000Z",
-    "dateEnd": "2026-02-18T03:57:08.000Z",
-    "dateLabel": "2/17/2026, 10:21:33 PM - 2/17/2026, 10:57:08 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260217-222133-isdy",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 11,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-23T01:59:43.000Z",
+      "dateEnd": "2026-02-23T04:05:30.000Z",
+      "dateLabel": "2/22/2026, 8:59:43 PM - 2/22/2026, 11:05:30 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260222-205943-xtfh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260222-230736-096y",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-02-23T04:07:36.649Z",
+      "dateEnd": "2026-02-23T04:07:36.649Z",
+      "dateLabel": "2/22/2026, 11:07:36 PM - 2/22/2026, 11:07:36 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260222-230736-096y",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
+      "id": "20260219-211759-ulz6",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 12
-    }
-  },
-  {
-    "id": "20260217-215432-pdm5",
-    "title": "Nim Ísnt, Undie Vided",
-    "commanders": [
-      "Nim Ísnt",
-      "Undie Vided"
-    ],
-    "dateStart": "2026-02-18T02:54:32.000Z",
-    "dateEnd": "2026-02-18T03:22:23.000Z",
-    "dateLabel": "2/17/2026, 9:54:32 PM - 2/17/2026, 10:22:23 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260217-215432-pdm5",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 8,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-20T02:17:59.000Z",
+      "dateEnd": "2026-02-20T03:26:56.000Z",
+      "dateLabel": "2/19/2026, 9:17:59 PM - 2/19/2026, 10:26:56 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260219-211759-ulz6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260218-204519-f4bk",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 10
-    }
-  },
-  {
-    "id": "20260216-173548-6bx4",
-    "title": "Georqe, Tilted Illusion, Xx Inter Xx",
-    "commanders": [
-      "Georqe",
-      "Tilted Illusion",
-      "Xx Inter Xx"
-    ],
-    "dateStart": "2026-02-16T22:35:48.000Z",
-    "dateEnd": "2026-02-17T04:44:52.000Z",
-    "dateLabel": "2/16/2026, 5:35:48 PM - 2/16/2026, 11:44:52 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260216-173548-6bx4",
-    "summary": {
-      "borderlandsPct": 0.9512195121951219,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 23,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 10,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 6,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 2,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-19T01:45:19.000Z",
+      "dateEnd": "2026-02-19T03:37:18.000Z",
+      "dateLabel": "2/18/2026, 8:45:19 PM - 2/18/2026, 10:37:18 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260218-204519-f4bk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 24
+      }
+    },
+    {
+      "id": "20260217-222133-isdy",
+      "title": "Undie Vided",
+      "commanders": [
+        "Undie Vided"
       ],
-      "avgSquadSize": 11,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260216-144404-8udl",
-    "title": "Aerith Savante",
-    "commanders": [
-      "Aerith Savante"
-    ],
-    "dateStart": "2026-02-16T19:44:04.000Z",
-    "dateEnd": "2026-02-16T21:00:02.000Z",
-    "dateLabel": "2/16/2026, 2:44:04 PM - 2/16/2026, 4:00:02 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260216-144404-8udl",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Obsidian Sanctum",
-          "value": 21,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-18T03:21:33.000Z",
+      "dateEnd": "2026-02-18T03:57:08.000Z",
+      "dateLabel": "2/17/2026, 10:21:33 PM - 2/17/2026, 10:57:08 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260217-222133-isdy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 12
+      }
+    },
+    {
+      "id": "20260217-215432-pdm5",
+      "title": "Nim Ísnt, Undie Vided",
+      "commanders": [
+        "Nim Ísnt",
+        "Undie Vided"
       ],
-      "avgSquadSize": 47,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260215-162201-b97w",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-15T21:22:01.000Z",
-    "dateEnd": "2026-02-16T04:19:57.000Z",
-    "dateLabel": "2/15/2026, 4:22:01 PM - 2/15/2026, 11:19:57 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260215-162201-b97w",
-    "summary": {
-      "borderlandsPct": 0.8181818181818182,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 28,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 14,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 10,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-18T02:54:32.000Z",
+      "dateEnd": "2026-02-18T03:22:23.000Z",
+      "dateLabel": "2/17/2026, 9:54:32 PM - 2/17/2026, 10:22:23 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260217-215432-pdm5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 10
+      }
+    },
+    {
+      "id": "20260216-173548-6bx4",
+      "title": "Georqe, Tilted Illusion, Xx Inter Xx",
+      "commanders": [
+        "Georqe",
+        "Tilted Illusion",
+        "Xx Inter Xx"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260212-203750-1kcn",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-13T01:37:50.000Z",
-    "dateEnd": "2026-02-13T04:03:00.000Z",
-    "dateLabel": "2/12/2026, 8:37:50 PM - 2/12/2026, 11:03:00 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260212-203750-1kcn",
-    "summary": {
-      "borderlandsPct": 0.85,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 27,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 6,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-16T22:35:48.000Z",
+      "dateEnd": "2026-02-17T04:44:52.000Z",
+      "dateLabel": "2/16/2026, 5:35:48 PM - 2/16/2026, 11:44:52 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260216-173548-6bx4",
+      "summary": {
+        "borderlandsPct": 0.9512195121951219,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260216-144404-8udl",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260211-203740-gw6p",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-12T01:37:40.000Z",
-    "dateEnd": "2026-02-12T04:34:56.000Z",
-    "dateLabel": "2/11/2026, 8:37:40 PM - 2/11/2026, 11:34:56 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260211-203740-gw6p",
-    "summary": {
-      "borderlandsPct": 0.9714285714285714,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 22,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 12,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 1,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-16T19:44:04.000Z",
+      "dateEnd": "2026-02-16T21:00:02.000Z",
+      "dateLabel": "2/16/2026, 2:44:04 PM - 2/16/2026, 4:00:02 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260216-144404-8udl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260215-162201-b97w",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 8,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260209-151719-pvcd",
-    "title": "Copybara Cat",
-    "commanders": [
-      "Copybara Cat"
-    ],
-    "dateStart": "2026-02-09T20:17:19.000Z",
-    "dateEnd": "2026-02-09T21:06:32.000Z",
-    "dateLabel": "2/9/2026, 3:17:19 PM - 2/9/2026, 4:06:32 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260209-151719-pvcd",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 12,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-15T21:22:01.000Z",
+      "dateEnd": "2026-02-16T04:19:57.000Z",
+      "dateLabel": "2/15/2026, 4:22:01 PM - 2/15/2026, 11:19:57 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260215-162201-b97w",
+      "summary": {
+        "borderlandsPct": 0.8181818181818182,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260212-203750-1kcn",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 24
-    }
-  },
-  {
-    "id": "20260208-210311-2wxd",
-    "title": "Georqe",
-    "commanders": [
-      "Georqe"
-    ],
-    "dateStart": "2026-02-09T02:03:11.000Z",
-    "dateEnd": "2026-02-09T03:02:35.000Z",
-    "dateLabel": "2/8/2026, 9:03:11 PM - 2/8/2026, 10:02:35 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260208-210311-2wxd",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 8,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 6,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-13T01:37:50.000Z",
+      "dateEnd": "2026-02-13T04:03:00.000Z",
+      "dateLabel": "2/12/2026, 8:37:50 PM - 2/12/2026, 11:03:00 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260212-203750-1kcn",
+      "summary": {
+        "borderlandsPct": 0.85,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260211-203740-gw6p",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 5,
-      "avgEnemySize": 24
-    }
-  },
-  {
-    "id": "20260205-211832-erbo",
-    "title": "Gèorge",
-    "commanders": [
-      "Gèorge"
-    ],
-    "dateStart": "2026-02-06T02:18:32.000Z",
-    "dateEnd": "2026-02-06T04:38:06.000Z",
-    "dateLabel": "2/5/2026, 9:18:32 PM - 2/5/2026, 11:38:06 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260205-211832-erbo",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 23,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-12T01:37:40.000Z",
+      "dateEnd": "2026-02-12T04:34:56.000Z",
+      "dateLabel": "2/11/2026, 8:37:40 PM - 2/11/2026, 11:34:56 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260211-203740-gw6p",
+      "summary": {
+        "borderlandsPct": 0.9714285714285714,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260209-151719-pvcd",
+      "title": "Copybara Cat",
+      "commanders": [
+        "Copybara Cat"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260204-204958-f8xm",
-    "title": "Gecrge",
-    "commanders": [
-      "Gecrge"
-    ],
-    "dateStart": "2026-02-05T01:49:58.000Z",
-    "dateEnd": "2026-02-05T03:48:39.000Z",
-    "dateLabel": "2/4/2026, 8:49:58 PM - 2/4/2026, 10:48:39 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260204-204958-f8xm",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 20,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-09T20:17:19.000Z",
+      "dateEnd": "2026-02-09T21:06:32.000Z",
+      "dateLabel": "2/9/2026, 3:17:19 PM - 2/9/2026, 4:06:32 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260209-151719-pvcd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 24
+      }
+    },
+    {
+      "id": "20260208-210311-2wxd",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
       ],
-      "avgSquadSize": 8,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260203-201741-8jg7",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-04T01:17:41.000Z",
-    "dateEnd": "2026-02-04T02:35:44.000Z",
-    "dateLabel": "2/3/2026, 8:17:41 PM - 2/3/2026, 9:35:44 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260203-201741-8jg7",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Alpine Borderlands",
-          "value": 15,
-          "color": "#22c55e"
-        },
-        {
-          "name": "World vs World - Green Alpine Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-09T02:03:11.000Z",
+      "dateEnd": "2026-02-09T03:02:35.000Z",
+      "dateLabel": "2/8/2026, 9:03:11 PM - 2/8/2026, 10:02:35 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260208-210311-2wxd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 24
+      }
+    },
+    {
+      "id": "20260205-211832-erbo",
+      "title": "Gèorge",
+      "commanders": [
+        "Gèorge"
       ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260201-204624-liae",
-    "title": "Gecrge",
-    "commanders": [
-      "Gecrge"
-    ],
-    "dateStart": "2026-02-02T01:46:24.000Z",
-    "dateEnd": "2026-02-02T03:31:17.000Z",
-    "dateLabel": "2/1/2026, 8:46:24 PM - 2/1/2026, 10:31:17 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260201-204624-liae",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 14,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#10b981"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-06T02:18:32.000Z",
+      "dateEnd": "2026-02-06T04:38:06.000Z",
+      "dateLabel": "2/5/2026, 9:18:32 PM - 2/5/2026, 11:38:06 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260205-211832-erbo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260204-204958-f8xm",
+      "title": "Gecrge",
+      "commanders": [
+        "Gecrge"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260131-195846-j0mv",
-    "title": "Dub Grumble, Guardian Cleming",
-    "commanders": [
-      "Dub Grumble",
-      "Guardian Cleming"
-    ],
-    "dateStart": "2026-02-01T00:58:46.000Z",
-    "dateEnd": "2026-02-01T04:01:24.000Z",
-    "dateLabel": "1/31/2026, 7:58:46 PM - 1/31/2026, 11:01:24 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260131-195846-j0mv",
-    "summary": {
-      "borderlandsPct": 0.9393939393939394,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 31,
-          "color": "#10b981"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 2,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-05T01:49:58.000Z",
+      "dateEnd": "2026-02-05T03:48:39.000Z",
+      "dateLabel": "2/4/2026, 8:49:58 PM - 2/4/2026, 10:48:39 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260204-204958-f8xm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260203-201741-8jg7",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260130-212358-jb5m",
-    "title": "Gecrge",
-    "commanders": [
-      "Gecrge"
-    ],
-    "dateStart": "2026-01-31T02:23:58.000Z",
-    "dateEnd": "2026-01-31T02:59:04.000Z",
-    "dateLabel": "1/30/2026, 9:23:58 PM - 1/30/2026, 9:59:04 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260130-212358-jb5m",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 8,
-          "color": "#a855f7"
-        }
+      "dateStart": "2026-02-04T01:17:41.000Z",
+      "dateEnd": "2026-02-04T02:35:44.000Z",
+      "dateLabel": "2/3/2026, 8:17:41 PM - 2/3/2026, 9:35:44 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260203-201741-8jg7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Alpine Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "World vs World - Green Alpine Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260201-204624-liae",
+      "title": "Gecrge",
+      "commanders": [
+        "Gecrge"
       ],
-      "avgSquadSize": 10,
-      "avgEnemySize": 10
-    }
-  },
-  {
-    "id": "20260130-202154-g2de",
-    "title": "Gecrge",
-    "commanders": [
-      "Gecrge"
-    ],
-    "dateStart": "2026-01-31T01:21:54.000Z",
-    "dateEnd": "2026-01-31T01:59:22.000Z",
-    "dateLabel": "1/30/2026, 8:21:54 PM - 1/30/2026, 8:59:22 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260130-202154-g2de",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 12,
-          "color": "#a855f7"
-        }
+      "dateStart": "2026-02-02T01:46:24.000Z",
+      "dateEnd": "2026-02-02T03:31:17.000Z",
+      "dateLabel": "2/1/2026, 8:46:24 PM - 2/1/2026, 10:31:17 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260201-204624-liae",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#10b981"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260131-195846-j0mv",
+      "title": "Dub Grumble, Guardian Cleming",
+      "commanders": [
+        "Dub Grumble",
+        "Guardian Cleming"
       ],
-      "avgSquadSize": 7,
-      "avgEnemySize": 7
-    }
-  },
-  {
-    "id": "20260130-221615-qryw",
-    "title": "Dragonhunter",
-    "commanders": [
-      "Dragonhunter"
-    ],
-    "dateStart": "2026-01-31T03:16:15.000Z",
-    "dateEnd": "2026-01-31T03:49:41.000Z",
-    "dateLabel": "1/30/2026, 10:16:15 PM - 1/30/2026, 10:49:41 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260130-221615-qryw",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 11,
-          "color": "#a855f7"
-        }
+      "dateStart": "2026-02-01T00:58:46.000Z",
+      "dateEnd": "2026-02-01T04:01:24.000Z",
+      "dateLabel": "1/31/2026, 7:58:46 PM - 1/31/2026, 11:01:24 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260131-195846-j0mv",
+      "summary": {
+        "borderlandsPct": 0.9393939393939394,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#10b981"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260130-212358-jb5m",
+      "title": "Gecrge",
+      "commanders": [
+        "Gecrge"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 10
-    }
-  },
-  {
-    "id": "20260129-202744-o0th",
-    "title": "Gecrge",
-    "commanders": [
-      "Gecrge"
-    ],
-    "dateStart": "2026-01-30T01:27:44.000Z",
-    "dateEnd": "2026-01-30T03:33:59.000Z",
-    "dateLabel": "1/29/2026, 8:27:44 PM - 1/29/2026, 10:33:59 PM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260129-202744-o0th",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 15,
-          "color": "#10b981"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-01-31T02:23:58.000Z",
+      "dateEnd": "2026-01-31T02:59:04.000Z",
+      "dateLabel": "1/30/2026, 9:23:58 PM - 1/30/2026, 9:59:04 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260130-212358-jb5m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 8,
+            "color": "#a855f7"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 10
+      }
+    },
+    {
+      "id": "20260130-202154-g2de",
+      "title": "Gecrge",
+      "commanders": [
+        "Gecrge"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260128-203816-8hvy",
-    "title": "Gecrge, Tilted Illusion",
-    "commanders": [
-      "Gecrge",
-      "Tilted Illusion"
-    ],
-    "dateStart": "2026-01-29T01:38:16.000Z",
-    "dateEnd": "2026-01-29T05:09:49.000Z",
-    "dateLabel": "1/28/2026, 8:38:16 PM - 1/29/2026, 12:09:49 AM",
-    "url": "https://zephewashere-ship-it.github.io/Test/?report=20260128-203816-8hvy",
-    "summary": {
-      "borderlandsPct": 0.7857142857142857,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 18,
-          "color": "#10b981"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-01-31T01:21:54.000Z",
+      "dateEnd": "2026-01-31T01:59:22.000Z",
+      "dateLabel": "1/30/2026, 8:21:54 PM - 1/30/2026, 8:59:22 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260130-202154-g2de",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#a855f7"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 7
+      }
+    },
+    {
+      "id": "20260130-221615-qryw",
+      "title": "Dragonhunter",
+      "commanders": [
+        "Dragonhunter"
       ],
-      "avgSquadSize": 9,
-      "avgEnemySize": 36
+      "dateStart": "2026-01-31T03:16:15.000Z",
+      "dateEnd": "2026-01-31T03:49:41.000Z",
+      "dateLabel": "1/30/2026, 10:16:15 PM - 1/30/2026, 10:49:41 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260130-221615-qryw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 11,
+            "color": "#a855f7"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 10
+      }
+    },
+    {
+      "id": "20260129-202744-o0th",
+      "title": "Gecrge",
+      "commanders": [
+        "Gecrge"
+      ],
+      "dateStart": "2026-01-30T01:27:44.000Z",
+      "dateEnd": "2026-01-30T03:33:59.000Z",
+      "dateLabel": "1/29/2026, 8:27:44 PM - 1/29/2026, 10:33:59 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260129-202744-o0th",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#10b981"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260128-203816-8hvy",
+      "title": "Gecrge, Tilted Illusion",
+      "commanders": [
+        "Gecrge",
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-01-29T01:38:16.000Z",
+      "dateEnd": "2026-01-29T05:09:49.000Z",
+      "dateLabel": "1/28/2026, 8:38:16 PM - 1/29/2026, 12:09:49 AM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260128-203816-8hvy",
+      "summary": {
+        "borderlandsPct": 0.7857142857142857,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#10b981"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 36
+      }
     }
-  }
-]
+  ]
+}
