@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260303-220122-9x2s",
+      "title": "Nim Iss",
+      "commanders": [
+        "Nim Iss"
+      ],
+      "dateStart": "2026-03-04T03:01:22.000Z",
+      "dateEnd": "2026-03-04T03:29:44.000Z",
+      "dateLabel": "3/3/2026, 10:01:22 PM - 3/3/2026, 10:29:44 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260303-220122-9x2s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260302-210642-jpmq",
       "title": "Gèorge, Georqe",
       "commanders": [
