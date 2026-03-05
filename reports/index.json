@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260304-205641-iibb",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-03-05T01:56:41.000Z",
+      "dateEnd": "2026-03-05T03:45:50.000Z",
+      "dateLabel": "3/4/2026, 8:56:41 PM - 3/4/2026, 10:45:50 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260304-205641-iibb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260303-223525-9yhf",
       "title": "Nim Iss",
       "commanders": [
