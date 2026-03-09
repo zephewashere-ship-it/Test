@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260308-205515-fj57",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-03-09T00:55:15.000Z",
+      "dateEnd": "2026-03-09T03:37:04.000Z",
+      "dateLabel": "3/8/2026, 8:55:15 PM - 3/8/2026, 11:37:04 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260308-205515-fj57",
+      "summary": {
+        "borderlandsPct": 0.45454545454545453,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260307-210257-iyln",
       "title": "Not Haro",
       "commanders": [
