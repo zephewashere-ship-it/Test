@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260311-210213-gxdo",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-03-12T01:02:13.000Z",
+      "dateEnd": "2026-03-12T03:02:56.000Z",
+      "dateLabel": "3/11/2026, 9:02:13 PM - 3/11/2026, 11:02:56 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260311-210213-gxdo",
+      "summary": {
+        "borderlandsPct": 0.11363636363636363,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260311-001643-fxe8",
       "title": "Georqe, Tilted Illusion",
       "commanders": [
