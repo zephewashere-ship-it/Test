@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260313-221327-zh9i",
+      "title": "Hârâshô, Lenoreleii",
+      "commanders": [
+        "Hârâshô",
+        "Lenoreleii"
+      ],
+      "dateStart": "2026-03-14T02:13:27.000Z",
+      "dateEnd": "2026-03-14T03:46:02.000Z",
+      "dateLabel": "3/13/2026, 10:13:27 PM - 3/13/2026, 11:46:02 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260313-221327-zh9i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260312-210435-4r9j",
       "title": "Georqe",
       "commanders": [
