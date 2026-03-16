@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260315-211301-ae3c",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-03-16T01:13:01.000Z",
+      "dateEnd": "2026-03-16T03:10:35.000Z",
+      "dateLabel": "3/15/2026, 9:13:01 PM - 3/15/2026, 11:10:35 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260315-211301-ae3c",
+      "summary": {
+        "borderlandsPct": 0.32432432432432434,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260313-221327-zh9i",
       "title": "Hârâshô, Lenoreleii",
       "commanders": [
