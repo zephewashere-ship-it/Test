@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260322-204820-uo4q",
+      "title": "Gecrge, Gèorge",
+      "commanders": [
+        "Gecrge",
+        "Gèorge"
+      ],
+      "dateStart": "2026-03-23T00:48:20.000Z",
+      "dateEnd": "2026-03-23T03:13:25.000Z",
+      "dateLabel": "3/22/2026, 8:48:20 PM - 3/22/2026, 11:13:25 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260322-204820-uo4q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260319-210559-76y7",
       "title": "Georqe",
       "commanders": [
