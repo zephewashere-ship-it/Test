@@ -1,10 +1,36 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260326-211130-x836",
+      "title": "Gèorge, Georqe",
+      "commanders": [
+        "Gèorge",
+        "Georqe"
+      ],
+      "dateStart": "2026-03-27T01:11:30.000Z",
+      "dateEnd": "2026-03-27T02:30:50.000Z",
+      "dateLabel": "3/26/2026, 9:11:30 PM - 3/26/2026, 10:30:50 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260326-211130-x836",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20260325-210614-dwo4",
       "title": "Gecrge, Georqe",
