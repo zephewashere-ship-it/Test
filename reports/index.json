@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260401-230539-1y12",
+      "title": "Gècrge",
+      "commanders": [
+        "Gècrge"
+      ],
+      "dateStart": "2026-04-02T03:05:39.000Z",
+      "dateEnd": "2026-04-02T04:08:27.000Z",
+      "dateLabel": "4/1/2026, 11:05:39 PM - 4/2/2026, 12:08:27 AM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260401-230539-1y12",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260401-210029-gzbr",
       "title": "Gècrge, Georqe",
       "commanders": [
