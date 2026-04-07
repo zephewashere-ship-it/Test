@@ -3,6 +3,44 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260406-205953-flcq",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "dateStart": "2026-04-07T00:59:53.000Z",
+      "dateEnd": "2026-04-07T02:09:18.000Z",
+      "dateLabel": "4/6/2026, 8:59:53 PM - 4/6/2026, 10:09:18 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260406-205953-flcq",
+      "summary": {
+        "borderlandsPct": 0.9090909090909091,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260405-211256-dl9e",
       "title": "Gecrge",
       "commanders": [
