@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260406-231104-y6lz",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "dateStart": "2026-04-07T03:11:04.000Z",
+      "dateEnd": "2026-04-07T04:09:48.000Z",
+      "dateLabel": "4/6/2026, 11:11:04 PM - 4/7/2026, 12:09:48 AM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260406-231104-y6lz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20260406-205634-32mb",
       "title": "Prez Ashton",
       "commanders": [
