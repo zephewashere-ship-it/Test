@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260407-223113-zdoz",
+      "title": "Gèorge",
+      "commanders": [
+        "Gèorge"
+      ],
+      "dateStart": "2026-04-08T02:31:13.000Z",
+      "dateEnd": "2026-04-08T02:57:40.000Z",
+      "dateLabel": "4/7/2026, 10:31:13 PM - 4/7/2026, 10:57:40 PM",
+      "url": "https://zephewashere-ship-it.github.io/Test/?report=20260407-223113-zdoz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260407-221046-2bs6",
       "title": "Gèorge, Prez Ashton",
       "commanders": [
