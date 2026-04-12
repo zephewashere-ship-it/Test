@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260411-174439-hah6",
+      "title": "Lightspeed Jack, Tilted Illusion",
+      "commanders": [
+        "Lightspeed Jack",
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-04-11T21:44:39.000Z",
+      "dateEnd": "2026-04-12T03:49:17.000Z",
+      "dateLabel": "4/11/2026, 5:44:39 PM - 4/11/2026, 11:49:17 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260411-174439-hah6",
+      "summary": {
+        "borderlandsPct": 0.045454545454545456,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260409-222941-606e",
       "title": "Gecrge",
       "commanders": [
