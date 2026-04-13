@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260412-214905-eok0",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-04-13T01:49:05.000Z",
+      "dateEnd": "2026-04-13T02:29:15.000Z",
+      "dateLabel": "4/12/2026, 9:49:05 PM - 4/12/2026, 10:29:15 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260412-214905-eok0",
+      "summary": {
+        "borderlandsPct": 0.3170731707317073,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260411-174439-hah6",
       "title": "Lightspeed Jack, Tilted Illusion",
       "commanders": [
