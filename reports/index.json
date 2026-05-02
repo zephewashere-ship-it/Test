@@ -3,6 +3,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-221508-ouea",
+      "title": "Charrmander Harasho, Gexrge",
+      "commanders": [
+        "Charrmander Harasho",
+        "Gexrge"
+      ],
+      "dateStart": "2026-05-02T02:15:08.000Z",
+      "dateEnd": "2026-05-02T03:55:41.000Z",
+      "dateLabel": "5/1/2026, 10:15:08 PM - 5/1/2026, 11:55:41 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260501-221508-ouea",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260430-211019-vlji",
       "title": "Gèorge",
       "commanders": [
