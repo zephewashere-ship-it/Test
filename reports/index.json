@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260513-212939-zxy6",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "dateStart": "2026-05-14T01:29:39.000Z",
+      "dateEnd": "2026-05-14T03:02:39.000Z",
+      "dateLabel": "5/13/2026, 9:29:39 PM - 5/13/2026, 11:02:39 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260513-212939-zxy6",
+      "summary": {
+        "borderlandsPct": 0.7,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260506-220845-8hcn",
       "title": "Gecrge",
       "commanders": [
