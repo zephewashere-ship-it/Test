@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-220210-ooui",
+      "title": "Georqe, Póstal",
+      "commanders": [
+        "Georqe",
+        "Póstal"
+      ],
+      "dateStart": "2026-08-02T02:02:10.000Z",
+      "dateEnd": "2026-08-02T02:59:32.000Z",
+      "dateLabel": "8/1/2026, 10:02:10 PM - 8/1/2026, 10:59:32 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260801-220210-ooui",
+      "summary": {
+        "borderlandsPct": 0.26666666666666666,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 11,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260618-220802-e8y4",
       "title": "Georqe",
       "commanders": [
