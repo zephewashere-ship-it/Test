@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-222044-nucj",
+      "title": "Diamond Footman",
+      "commanders": [
+        "Diamond Footman"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-08T02:20:44.000Z",
+      "dateEnd": "2026-08-08T03:03:06.000Z",
+      "dateLabel": "8/7/2026, 10:20:44 PM - 8/7/2026, 11:03:06 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260807-222044-nucj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260801-220210-ooui",
       "title": "Georqe, Póstal",
       "commanders": [
