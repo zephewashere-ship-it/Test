@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-210242-kglh",
+      "title": "Dark Aura Bot, Gexrge",
+      "commanders": [
+        "Dark Aura Bot",
+        "Gexrge"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-08-10T01:02:42.000Z",
+      "dateEnd": "2026-08-10T02:49:04.000Z",
+      "dateLabel": "8/9/2026, 9:02:42 PM - 8/9/2026, 10:49:04 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260809-210242-kglh",
+      "summary": {
+        "borderlandsPct": 0.43478260869565216,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260807-225520-witd",
       "title": "Diamond Footman, Mithril Veteran",
       "commanders": [
