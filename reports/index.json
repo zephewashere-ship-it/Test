@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-221225-efeo",
+      "title": "Icy P R Manager",
+      "commanders": [
+        "Icy P R Manager"
+      ],
+      "guild": {
+        "id": "23B352FB-9C18-EF11-81A9-8FB5CFBE7766",
+        "name": "Defîance",
+        "tag": "DEFI"
+      },
+      "dateStart": "2026-08-31T02:12:25.000Z",
+      "dateEnd": "2026-08-31T02:46:40.695Z",
+      "dateLabel": "8/30/2026, 10:12:25 PM - 8/30/2026, 10:46:40 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260830-221225-efeo",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260820-220846-kgwj",
       "title": "Gecrge, Georqe, Geùrge",
       "commanders": [
