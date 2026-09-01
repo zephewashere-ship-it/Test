@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-195856-sjqh",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-31T23:58:56.000Z",
+      "dateEnd": "2026-09-01T00:13:49.397Z",
+      "dateLabel": "8/31/2026, 7:58:56 PM - 8/31/2026, 8:13:49 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260831-195856-sjqh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260830-221225-efeo",
       "title": "Icy P R Manager",
       "commanders": [
