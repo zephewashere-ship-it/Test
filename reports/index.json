@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260902-211834-tro4",
+      "title": "Gèorge",
+      "commanders": [
+        "Gèorge"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-09-03T01:18:34.000Z",
+      "dateEnd": "2026-09-03T01:51:59.729Z",
+      "dateLabel": "9/2/2026, 9:18:34 PM - 9/2/2026, 9:51:59 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260902-211834-tro4",
+      "summary": {
+        "borderlandsPct": 0.09090909090909091,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260831-195856-sjqh",
       "title": "Prez Ashton",
       "commanders": [
